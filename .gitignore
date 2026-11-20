@@ -1,0 +1,7 @@
+*.o
+output.log
+.vscode/
+Bureaucrat
+Form
+Forms
+Intern
